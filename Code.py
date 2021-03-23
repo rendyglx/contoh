@@ -1,0 +1,1 @@
+print("jangan lupa subscribe")
